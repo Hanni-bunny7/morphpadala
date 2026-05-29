@@ -35,6 +35,11 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173).
 
+or
+
+For Deployed App
+https://morphpadala.vercel.app/
+
 ## Supported Corridors
 
 | From | Currency |
